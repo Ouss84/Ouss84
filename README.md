@@ -9,5 +9,5 @@ my belt.
 📫 How to reach me: 
     📧 bahrioussama@yahoo.fr 
     <br/>
-    <img src="https://img.shields.io/badge/LinkedIn/>
+   
 

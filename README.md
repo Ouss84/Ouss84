@@ -2,7 +2,7 @@
 
 🌱 I’m currently on Full-stack learning path: 🎓
 
-For the last year, I have been putting improving my skills in the Front-End stack. 
+For the last year, I have been improving my skills in the Front-End stack. 
 And now while keeping on learning that tech stack, I am adding the Back-End tools
 my belt.
 

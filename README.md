@@ -2,6 +2,7 @@
 
 🌱 I’m currently on the journey to perfect and solidify my Full-stack skills to create and develop meaningful applications, contributing to as many interesting projects as possible 🎓
 
+👨🏽‍💻 I am currently a Student at [1]: https://www.bc.fi/?gclid=Cj0KCQiAqbyNBhC2ARIsALDwAsC4jjcqY4JZeC72c1BANayN2dvE6kdzYO90nJ5giqQHHhsMF-fmkrgaAidnEALw_wcB
 
 
  🛠 languages and tools:

@@ -2,7 +2,6 @@
 
 🌱 I’m currently on the journey to perfect and solidify my Full-stack skills to create and develop meaningful applications, contributing to as many interesting projects as possible 🎓
 
-JavaScript logo   TypeScript logo   HTML5 logo   CSS3 logo   Android logo   React Native logo   Redux logo   ESLint logo   git logo   Visual Studio Code logo   Fastlane logo   Jest logo
 
 **languages and tools:** 
 

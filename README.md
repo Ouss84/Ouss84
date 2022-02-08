@@ -30,7 +30,7 @@
   <br/><br/>
 📫 How to reach me: 
 <br/><br/>
-    📧 bahrioussama@yahoo.fr 
+    📧 bahrioussama84@gmail.com 
     <br/><br/>
     <code><img height="30"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></code> : https://www.linkedin.com/in/oussama-bahri/
 

@@ -32,6 +32,8 @@
 <br/><br/>
     📧 bahrioussama84@gmail.com 
     <br/><br/>
-    <code><img height="30"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></code> : https://www.linkedin.com/in/oussama-bahri/
+      <a href="https://www.linkedin.com/in/oussama-bahri/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Badge"/>
+  </a>
 
 

@@ -24,15 +24,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+
  
   </p>
   <br/><br/>
   <br/><br/>
 📫 How to reach me: 
 <br/><br/>
-    📧 bahrioussama84@gmail.com 
-    <br/><br/>
-      <a href="https://www.linkedin.com/in/oussama-bahri/" target="_blank" >
+<a href="mailto:bahrioussama84@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="LinkedIn Badge"/>
+</a> <a href="https://www.linkedin.com/in/oussama-bahri/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Badge"/>
   </a>
 

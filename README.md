@@ -2,7 +2,7 @@
 
 🌱  I’m currently on the journey to perfect and solidify my Full-stack skills, create and develop meaningful applications, and to contributing to as many engaging projects as possible👨🏽‍💻
 
-🎓 Currently a student at [Business College Helsinki](https://www.bc.fi/) & [Hive Helsinki](https://www.hive.fi/)
+🎓 studied at [Business College Helsinki](https://www.bc.fi/) & [Hive Helsinki](https://www.hive.fi/)
 
 
  🛠 languages and tools:
